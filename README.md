@@ -1,3 +1,5 @@
+![Alt text](Screenshot.png?raw=true)
+
 # Setup
 
 - Download [MacTeX-2022](https://tug.org/mactex/mactex-download.html)
