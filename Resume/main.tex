@@ -1,0 +1,283 @@
+%-------------------------
+% Resume in Latex
+% Author : Uneeb Agha
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{hyphenat}
+\usepackage{fontawesome}
+\input{glyphtounicode}
+\usepackage{graphicx}
+
+\graphicspath{ {./images/} }
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+\usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[5]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\hskip 0.1in}l@{\extracolsep{\fill}}r}
+      #1 & \textbf{#2} & #3 \\
+      & \textsl{\small#4} & {\small #5} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubheadingSimple}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textsl{\small#3} & {\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeOrganizationHeading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textit{\small #2} \\
+      \textit{\small#3}
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\newcommand{\resumeCompanyLogo}[1]{\raisebox{-.3\height}{\includegraphics[height=0.5cm]{#1}}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+
+\begin{center}
+    \textbf{\Huge \scshape Uneeb Agha} \\ \vspace{3pt}
+    \small
+    \faMobile \hspace{.5pt} \href{tel:+17702892464}{(770) 289-8464}
+    $|$
+    \faAt \hspace{.5pt} \href{mailto:uneeb.agha@gmail.com}{uneeb.agha@gmail.com}
+    $|$
+    \faLinkedinSquare \hspace{.5pt} \href{https://www.linkedin.com/in/uneebagha}{uneebagha}
+    $|$
+    \faGithub \hspace{.5pt} \href{https://github.com/uneeb123}{uneeb123}
+    $|$
+    \faMapMarker \hspace{.5pt} \href{https://www.google.com/maps/place/san+francisco/data=!4m2!3m1!1s0x80859a6d00690021:0x4a501367f076adff?sa=X&ved=2ahUKEwjYtaOLvsf4AhW6DkQIHQurCg4Q8gF6BQivARAC}{San Francisco, California}
+\end{center}
+
+
+
+%-----------EXPERIENCE-----------
+
+\section{Experience}
+  \vspace{3pt}
+  \resumeSubHeadingListStart
+    
+    \resumeSubheading
+      {\resumeCompanyLogo{coinbase}}{Coinbase}{Remote / San Francisco, California}
+      {Product Manager (started as Software Engineer)}{Feb 2020 \textbf{--} Jun 2022}
+        \resumeItemListStart
+            \resumeItem{\textbf{Pitched and built a new product (Coinbase Pay)} to the executive team; from ideation to design to implementation}
+            \resumeItem{Tech lead for feature that allowed instant withdrawals using debit cards}
+            \resumeItem{Contributed to release of Paypal and Apple Pay support}
+        \resumeItemListEnd
+    
+    \resumeSubheading
+      {\faRocket}{Early-stage Startups}{San Francisco, California}
+      {Entreprenuer / Software Engineer}{Feb 2018 \textbf{--} Dec 2019}
+        \resumeItemListStart
+            \resumeItem{\textbf{Attempted to build a crypto wallet} which had multi-sig capabilities; struggled with product-market fit}
+            \resumeItem{Freelanced for a startup that provided services as guarantors for renters in NY}
+            \resumeItem{Worked at a series-A startup that built infrastructure billing abilities to monitor spend in AWS}
+        \resumeItemListEnd
+    
+    \resumeSubheading
+      {\resumeCompanyLogo{aws}}{Amazon}{Seattle, Washington}
+      {Software Development Engineer}{Jan 2017 \textbf{--} Feb 2018}
+        \resumeItemListStart
+            \resumeItem{Part of the Continuous Delivery org in Amazon Web Services}
+            \resumeItem{\textbf{Built automated dashboard building capabilities in Infrastructure-as-Code tool} used by internal teams at Amazon}
+            \resumeItem{Fixes in the domain of deployment pipelines; monitors; and provisioning instances}
+        \resumeItemListEnd
+    
+    \resumeSubheading
+      {\resumeCompanyLogo{microsoft}}{Microsoft}{Copenhagen, Denmark}
+      {Software Development Engineer}{Jul 2015 \textbf{--} Dec 2016}
+        \resumeItemListStart
+            \resumeItem{Worked on ERP product (Dynamics AX) with focus on supply chain}
+            \resumeItem{Fixed in inventory management; procurement and sales}
+            \resumeItem{\textbf{Built data entities to allow easy migrations} when upgrading software}
+        \resumeItemListEnd
+    
+    \resumeSubHeadingListEnd
+
+
+%-----------EDUCATION-----------
+
+\section{Education}
+  \vspace{3pt}
+  \resumeSubHeadingListStart
+    
+    \resumeSubheading
+       {\resumeCompanyLogo{jub}}{Jacobs University}
+      {Bremen, Germany}
+      {Bachelor of Science in Computer Science;   \textbf{GPA: 2.2/5.0 (German scale)}}{Graduated 2014}
+      \resumeItemListStart
+        \resumeItem{Specialized in Computational Logic and Computer Vision}
+        \resumeItem{Trans-disciplinary courses in psychology, politics, music, geology, and law.}
+      \resumeItemListEnd
+            
+  \resumeSubHeadingListEnd
+
+
+
+%-----------CERTIFICATES-----------
+
+\section{Certificates}
+  \resumeSubHeadingListStart
+   
+    \resumeSubheadingSimple
+      {Product School}
+      {Remote}
+      {Product Manager Certificate}{Issued March 2021}
+      \resumeItemListStart
+        \resumeItem{8-week course that prepares students to successfully build software products with a team of designers and engineers.}
+        \resumeItem{Students learn from real-world Product Managers at top tech companies such as Google, Facebook, LinkedIn, and Twitter.}
+      \resumeItemListEnd
+    
+  \resumeSubHeadingListEnd
+  
+  
+  
+%-----------FUN PROJECTS-----------
+
+\section{Fun Projects}
+  \vspace{3pt}
+  \resumeSubHeadingListStart
+    \small{\item{
+        \textbf{LightTube:}{ Bitcoin-based video streaming service \hfill \texttt{http://light-tube.surge.sh/}}  \\ \vspace{2pt}
+        \textbf{Addr:}{ React Native app which is a Bitcoin wallet with multi-sig \hfill \texttt{https://github.com/uneeb123/AddrApp}}  \\ \vspace{2pt}
+        \textbf{Radd:}{ Vue-based application that creates Gantt charts for project management \hfill \texttt{https://github.com/uneeb123/Radd}}
+    }}
+ \resumeSubHeadingListEnd
+
+
+
+%-----------MISCELLANEOUS-----------
+
+\section{Miscellaneous}
+  \vspace{1pt}
+  \resumeSubHeadingListStart
+    \small{\item{
+        \textbf{Technical writing:}{ \texttt{https://medium.com/@uneeb123}} \\ \vspace{2pt}
+        \textbf{Substack newsletter:}{ \texttt{https://www.cryptechie.com/} } \\ \vspace{2pt}
+        \textbf{Programming:}{ JavaScript, Go, Ruby, Java} \\ \vspace{2pt} 
+        \textbf{Languages:}{ Urdu (Native), English (Professional), German (Limited)} \\ \vspace{2pt}
+        \textbf{Work Authorization:}{ U.S Permanent Resident (soon to be citizen)}
+        % \textbf{Frameworks}{: X, X, X} \\
+        % \textbf{Developer Tools}{: X, X, X} \\
+        % \textbf{Libraries}{: X, X, X} \\
+        % \textbf{Applications}{: X, X, X}
+    }}
+  \resumeSubHeadingListEnd
+
+
+
+%-----------HOBBIES-----------
+
+% \section{Hobbies}
+  % \resumeSubHeadingListStart
+    % \small{\item{Swimming, Fitness, Eight-ball}}
+  % \resumeSubHeadingListEnd
+
+
+
+%-----------REFERENCES-----------
+
+% \section{References}
+  % \resumeSubHeadingListStart
+    
+  % \resumeSubHeadingListEnd
+
+
+
+%-------------------------------------------
+\end{document}
