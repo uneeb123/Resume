@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.24)  28 JUN 2022 11:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.24)  7 AUG 2024 21:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -470,63 +470,52 @@ LaTeX Font Info:    Font shape `OT1/CormorantGaramond-LF/m/sc' aliased to
 LaTeX Font Info:    Font shape `OT1/CormorantGaramond-LF/regular/sc' will be
 (Font)              scaled to size 12.0pt on input line 150.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 156.
+(Font)              <10.95> on input line 157.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 156.
+(Font)              <8> on input line 157.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 156.
-<./images//coinbase.png, id=29, 180.675pt x 180.675pt>
-File: ./images//coinbase.png Graphic file (type png)
-<use ./images//coinbase.png>
-Package pdftex.def Info: ./images//coinbase.png  used on input line 156.
-(pdftex.def)             Requested size: 14.22546pt x 14.22636pt.
+(Font)              <6> on input line 157.
 LaTeX Font Info:    Font shape `OT1/CormorantGaramond-LF/m/sl' aliased to
-(Font)              `OT1/CormorantGaramond-LF/regular/sl' on input line 156.
+(Font)              `OT1/CormorantGaramond-LF/regular/sl' on input line 157.
 LaTeX Font Info:    Font shape `OT1/CormorantGaramond-LF/regular/sl' in size <1
 0.95> not available
 (Font)              Font shape `OT1/CormorantGaramond-LF/regular/it' tried inst
-ead on input line 156.
+ead on input line 157.
 LaTeX Font Info:    Font shape `OT1/CormorantGaramond-LF/regular/it' will be
-(Font)              scaled to size 10.95pt on input line 156.
+(Font)              scaled to size 10.95pt on input line 157.
 LaTeX Font Info:    Font shape `OT1/CormorantGaramond-LF/m/sl' aliased to
-(Font)              `OT1/CormorantGaramond-LF/regular/sl' on input line 156.
+(Font)              `OT1/CormorantGaramond-LF/regular/sl' on input line 157.
 LaTeX Font Info:    Font shape `OT1/CormorantGaramond-LF/regular/sl' in size <1
 0> not available
 (Font)              Font shape `OT1/CormorantGaramond-LF/regular/it' tried inst
-ead on input line 156.
+ead on input line 157.
 LaTeX Font Info:    Font shape `OT1/CormorantGaramond-LF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 156.
+(Font)              scaled to size 10.0pt on input line 157.
 LaTeX Font Info:    Font shape `OT1/CormorantGaramond-LF/b/n' aliased to
-(Font)              `OT1/CormorantGaramond-LF/bold/n' on input line 156.
+(Font)              `OT1/CormorantGaramond-LF/bold/n' on input line 157.
 LaTeX Font Info:    Font shape `OT1/CormorantGaramond-LF/bold/n' will be
-(Font)              scaled to size 10.0pt on input line 156.
+(Font)              scaled to size 10.0pt on input line 157.
 LaTeX Font Info:    Font shape `OT1/CormorantGaramond-LF/m/n' aliased to
-(Font)              `OT1/CormorantGaramond-LF/regular/n' on input line 158.
+(Font)              `OT1/CormorantGaramond-LF/regular/n' on input line 159.
 LaTeX Font Info:    Font shape `OT1/CormorantGaramond-LF/regular/n' will be
-(Font)              scaled to size 6.0pt on input line 158.
-<./images//aws.png, id=31, 2569.6pt x 1538.74875pt>
-File: ./images//aws.png Graphic file (type png)
-<use ./images//aws.png>
-Package pdftex.def Info: ./images//aws.png  used on input line 174.
-(pdftex.def)             Requested size: 23.72137pt x 14.22636pt.
-<./images//microsoft.png, id=32, 411.136pt x 411.136pt>
-File: ./images//microsoft.png Graphic file (type png)
-<use ./images//microsoft.png>
-Package pdftex.def Info: ./images//microsoft.png  used on input line 183.
-(pdftex.def)             Requested size: 14.22185pt x 14.22636pt.
-<./images//jub.png, id=33, 758.835pt x 663.47874pt>
+(Font)              scaled to size 6.0pt on input line 159.
+LaTeX Font Info:    Trying to load font information for TS1+CormorantGaramond-L
+F on input line 159.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/cormorantgaramond/TS1CormorantGar
+amond-LF.fd
+File: TS1CormorantGaramond-LF.fd 2019/12/11 (autoinst) Font definitions for TS1
+/CormorantGaramond-LF.
+)
+LaTeX Font Info:    Font shape `TS1/CormorantGaramond-LF/m/n' aliased to
+(Font)              `TS1/CormorantGaramond-LF/regular/n' on input line 159.
+LaTeX Font Info:    Font shape `TS1/CormorantGaramond-LF/regular/n' will be
+(Font)              scaled to size 10.0pt on input line 159.
+<./images//jub.png, id=25, 758.835pt x 663.47874pt>
 File: ./images//jub.png Graphic file (type png)
 <use ./images//jub.png>
-Package pdftex.def Info: ./images//jub.png  used on input line 202.
+Package pdftex.def Info: ./images//jub.png  used on input line 229.
 (pdftex.def)             Requested size: 16.26831pt x 14.22636pt.
-LaTeX Font Info:    Font shape `OT1/CormorantGaramond-LF/b/sl' aliased to
-(Font)              `OT1/CormorantGaramond-LF/bold/sl' on input line 202.
-LaTeX Font Info:    Font shape `OT1/CormorantGaramond-LF/bold/sl' in size <10> 
-not available
-(Font)              Font shape `OT1/CormorantGaramond-LF/bold/it' tried instead
- on input line 202.
-LaTeX Font Info:    Font shape `OT1/CormorantGaramond-LF/bold/it' will be
-(Font)              scaled to size 10.0pt on input line 202.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -536,38 +525,37 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./image
-s//coinbase.png> <./images//aws.png> <./images//microsoft.png> <./images//jub.p
-ng>] (./main.aux)
+s//jub.png>] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 812B0B128F68828793F121831FA9F7DE;498.
+(rerunfilecheck)             Checksum: D6B4C9D44C22877E154F08941B4F16B9;392.
  ) 
 Here is how much of TeX's memory you used:
- 13034 strings out of 478268
- 209580 string characters out of 5846347
- 531892 words of memory out of 5000000
- 31043 multiletter control sequences out of 15000+600000
- 491420 words of font info for 61 fonts, out of 8000000 for 9000
+ 13049 strings out of 478268
+ 210609 string characters out of 5846347
+ 528892 words of memory out of 5000000
+ 31054 multiletter control sequences out of 15000+600000
+ 490126 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,11n,63p,256b,384s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cormorantgaramond/cgrm_k5
-4atz.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cormorantgaramond/
-cgrm_usix3v.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cormorantga
-ramond/cgrm_ctw2ju.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/font
-awesome/fontawesomeone.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/
-fontawesome/fontawesometwo.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/
-catharsis/cormorantgaramond/CormorantGaramond-Bold.pfb></usr/local/texlive/2022
-/texmf-dist/fonts/type1/catharsis/cormorantgaramond/CormorantGaramond-BoldItali
-c.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/catharsis/cormorantgaramo
-nd/CormorantGaramond-Italic.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1
-/catharsis/cormorantgaramond/CormorantGaramond-Regular.pfb></usr/local/texlive/
-2022/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/texl
-ive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
-ve/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive
-/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (1 page, 346436 bytes).
+ 60i,11n,63p,256b,379s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cormorantgaramond/cgrm_v7
+t4yx.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cormorantgaramond/
+cgrm_k54atz.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cormorantga
+ramond/cgrm_usix3v.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/corm
+orantgaramond/cgrm_ctw2ju.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvi
+ps/fontawesome/fontawesomeone.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc
+/dvips/fontawesome/fontawesometwo.enc}</usr/local/texlive/2022/texmf-dist/fonts
+/type1/catharsis/cormorantgaramond/CormorantGaramond-Bold.pfb></usr/local/texli
+ve/2022/texmf-dist/fonts/type1/catharsis/cormorantgaramond/CormorantGaramond-It
+alic.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/catharsis/cormorantgar
+amond/CormorantGaramond-Regular.pfb></usr/local/texlive/2022/texmf-dist/fonts/t
+ype1/public/fontawesome/FontAwesome.pfb></usr/local/texlive/2022/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/font
+s/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2022/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on main.pdf (1 page, 190799 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
- 73 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 91 PDF objects out of 1000 (max. 8388607)
+ 67 compressed objects within 1 object stream
+ 6 named destinations out of 1000 (max. 500000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
